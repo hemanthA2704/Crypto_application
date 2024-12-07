@@ -1,0 +1,84 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Environment variables
+.env
+.env.*
+
+# Compiled files and C extensions
+*.dll
+*.o
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage and testing files
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+coverage.xml
+nosetests.xml
+*.coveragerc
+.tox/
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Wheels and other distributions
+*.whl
+
+# Pipfile and lock (if using Pipenv)
+Pipfile.lock
+
+# Poetry (if using Poetry)
+poetry.lock
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Node.js (if using JavaScript/Node in your project)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Specific directories or files for your project
+# Add project-specific entries here
